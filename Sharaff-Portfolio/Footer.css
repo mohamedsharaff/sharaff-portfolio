@@ -1,0 +1,52 @@
+
+footer{
+
+    border-top: solid 5px orange;
+    /* margin-top: 730px; */
+    bottom: 0;
+    padding: 1%;
+    /* margin: 0; */
+    background-color:rgb(40, 39, 39);
+    color: white;
+}
+
+footer label{
+    text-align: justify;
+}
+
+footer .col{
+    text-align: justify;
+}
+
+footer .col a{
+    /* border: solid red 1px; */
+    color: white;
+    /* font-weight: bold; */
+    text-decoration: none;
+}
+
+footer .col a:hover{
+
+    color: gray;
+}
+
+footer .footer_grid{
+    display: grid;
+    grid-template-columns: repeat(4,25%);
+    text-align: center;
+}
+
+footer .copyright{
+    text-align: center;
+    margin-top: 1%;
+    padding:1%;
+    border-top: 1px solid white;
+    color: white;
+}
+
+footer .social a{
+
+    margin-left: 10px;
+    font-size: 30px;
+
+}

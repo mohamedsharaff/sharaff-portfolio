@@ -1,0 +1,50 @@
+.head{
+
+    display: block;
+    justify-content: center;
+    width: 50%;
+    padding: 10px;
+    background-color: black;
+    margin: auto;
+    border-radius: 50px;
+    text-align: center;
+    height: max-content;
+    color: white;
+
+}
+
+.imenu{
+
+    display: none;
+    text-align: center;
+
+}
+
+.imenu a {
+
+    color: white;
+
+}
+
+.imenu a:hover{
+
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+
+}
+
+.menu{
+
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+.menu_hide{
+    
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+
+}
